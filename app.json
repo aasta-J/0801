@@ -9,7 +9,7 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "extra": {
-      "API_BASE_URL": "https://9c5b2ff4775b.ngrok-free.app"
+      "API_BASE_URL": "https://a563d511446c.ngrok-free.app"
     },
     "ios": {
       "supportsTablet": true
