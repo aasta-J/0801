@@ -9,7 +9,7 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "extra": {
-      "API_BASE_URL": "https://e37f075d55aa.ngrok-free.app"
+      "API_BASE_URL": "https://d7a787f781c7.ngrok-free.app"
     },
     "ios": {
       "supportsTablet": true
@@ -27,7 +27,6 @@
       "favicon": "./assets/images/favicon.png"
     },
     "plugins": [
-      "expo-router",
       [
         "expo-splash-screen",
         {
@@ -35,13 +34,8 @@
           "imageWidth": 200,
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
-          
         }
       ]
-    ],
-    "experiments": {
-      "typedRoutes": true
-    }
-    
+    ]
   }
 }
